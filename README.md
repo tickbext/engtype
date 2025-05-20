@@ -127,3 +127,69 @@ This aphorism reveals that:
 3. **Erasure of Morality**: Power becomes an end unbounded by ethical constraints, legitimized only by its own exercise, epitomizing the novel’s dystopian vision of authority stripped of purpose beyond itself  .
 
 ---
+  ## Samuel Beckett
+  
+  ### 1. Life
+    *born in dublin in 1906, attended trinity colledge studying french and italian, 10 years after colledge Beckett setteled permanently in Paris (france).
+    In paris he started his literary career as a short-story writer and novelist, shortly after he recieved a Nobel for Literature. Died (1989)
+    
+    His most famous works are:
+      - Waiting for Godot (1952) -> influential play about the await of godot
+      - Endgame           (1958) -> dissolution of the relationship between the physical and hte intellectual sides of a man at the very moment of death
+      - Krapp's Last Tape (1958) -> monologue
+      - Happy Days        (1960) -> characters are reduced to motionless individuals.
+      - Breath            (1969) -> shows how human life has become mere sounds, if not silence.
+
+      Beckett is part of "The Theatre of the Absurd" which is defined by: 
+      - The absence of a real story or plot
+      - No actions (since all actions are insignificant).
+      - Vagueness about time places and characters
+      - Minimal use of language since it contradicts what the characters are doing
+      - Incoherent babbling makes up the dialogue
+---
+  ###  2. Waiting For Godot
+    This play has no setting besides a country road and a bare tree, time doesn't move (just the present).
+    
+    The plot revolves around two tramps whom are waiting for a mysterious Godot who never turns up.
+    The structure is circular (comes around) it begins the same way it ends. The two acts are symmetrically built, the stage is divided into two halves by a tree.
+    The human races are divided into two, Vladimir and Estragon.
+    
+    There are no characters in a traditional sense, two protagonists are Vladimir and Estragon who question themselves about the nature of the self, the world and God and represent the intelect.
+    The two protagonists are complementary. There are other carachters, Lucky and Pozzo, they are physically linked by a rope and by a relationship of master and servant. 
+    Estragon and Pozzo stand for the Body (?), the couples are mutually dependent.
+    
+    Themes:
+    
+    1. Dreariness and meaningless of human life
+    2. A static world where nothing happends
+    3. Absence of any traditional time (no past, no future, only repetetive present)
+    4. Man's increased knowledge has only made him aware of the uselessness of his learning
+
+    Style:
+
+    1. Disintegration of language (broken and fragmented dialogue with absurd exchanges)
+    2. Use of para-verbal language (mime, silence, gaps and pauses)
+    3. A grotesque (ugly or stupid) humour
+    4. The tone is tragic and desperate
+---
+
+  ## Contemporary (1950) Drama
+
+  ### The theatre of anger
+
+  Main features:
+
+  - Use of a realistic setting
+  - logical, easy to follow plot
+  - outspoken language
+  - presence of a thoughtful working class hero (like the rebel Jimmy Porter)
+
+  ### Kitchen-Sink Drama
+
+  Developer: Arnold Wesker
+
+  The kitchen-sink Drama tries to draw a picture of the working class life
+
+  
+  
+---
